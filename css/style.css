@@ -1,4 +1,6 @@
-<style media="screen">body {
+<style media="screen">
+
+body {
   background-color: #f6f6f6;
 }
 
@@ -12,14 +14,15 @@ hr {
 
 img {
   width: 50%;
-  height: 50%;
+  height: 55%;
+  padding-left: 60px;
 }
 
 h1{
   color: #66BFBF;
 }
+
 h3{
   color: #66BFBF;
 }
-
 </style>
