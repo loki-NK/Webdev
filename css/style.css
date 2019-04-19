@@ -1,0 +1,25 @@
+<style media="screen">body {
+  background-color: #f6f6f6;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+}
+
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+
+</style>
